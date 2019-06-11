@@ -1,0 +1,2 @@
+# energo-stock
+GitHub Pages

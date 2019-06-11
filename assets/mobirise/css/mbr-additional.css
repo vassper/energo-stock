@@ -1815,6 +1815,13 @@ body {
 .cid-rsHGHjoYUY {
   background-image: url("../../../assets/images/p1000377-2000x1500.jpg");
 }
+.cid-rsHGHjoYUY H1 {
+  color: #ff114f;
+}
+.cid-rsHGHjoYUY .mbr-text,
+.cid-rsHGHjoYUY .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rsHGX1oSyT {
   padding-top: 90px;
   padding-bottom: 90px;
